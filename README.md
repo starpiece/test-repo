@@ -1,2 +1,3 @@
 # test-repo
-Ini adalah sample repository
+Ini adalah repository
+Repository sudah di-edit.
